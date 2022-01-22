@@ -10,7 +10,7 @@
         "mc-chat-format": "^1.2.1",
         "mcproto": "^0.7.12",
         "mcre": "0.0.1",
-        "node-fetch": "^2.6.0"
+        "node-fetch": "^3.1.1"
     },
     "devDependencies": {
         "@types/node": "^12.12.28",
